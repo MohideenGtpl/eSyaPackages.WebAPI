@@ -1,0 +1,13 @@
+﻿using HCP.Packages.DO;
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HCP.Packages.IF
+{
+    public interface IPackageMasterRepository
+    {
+        Task<List<DO_PackageMaster>> GetPackages();
+    }
+}

@@ -1,0 +1,44 @@
+﻿using HCP.Packages.DL.Entities;
+using HCP.Packages.DO;
+using HCP.Packages.IF;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HCP.Packages.DL.Repository
+{
+    public class PackageMasterRepository : IPackageMasterRepository
+    {
+        private eSyaEnterprise _context { get; set; }
+
+        public PackageMasterRepository(eSyaEnterprise context)
+        {
+            _context = context;
+        }
+
+        public async Task<List<DO_PackageMaster>> GetPackages()
+        {
+            try
+            {
+                var ds = await _context.GtPkphhd.Where(x =>  x.ActiveStatus == true).Select(
+                      p => new DO_PackageMaster
+                      {
+                          PackageCode = p.PackageCode,
+                          PackageDesc = _context.GtEcapcd.Where(a => a.ApplicationCode == p.PackageCode).FirstOrDefault().ShortCode,
+                      }).ToListAsync();
+
+                return ds;
+            }
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+
+    }
+}

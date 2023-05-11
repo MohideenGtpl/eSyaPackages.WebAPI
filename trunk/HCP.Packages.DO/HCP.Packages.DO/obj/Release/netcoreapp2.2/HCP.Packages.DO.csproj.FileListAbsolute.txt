@@ -1,0 +1,9 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DO\HCP.Packages.DO\bin\Release\netcoreapp2.2\HCP.Packages.DO.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DO\HCP.Packages.DO\bin\Release\netcoreapp2.2\HCP.Packages.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DO\HCP.Packages.DO\bin\Release\netcoreapp2.2\HCP.Packages.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DO\HCP.Packages.DO\obj\Release\netcoreapp2.2\HCP.Packages.DO.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DO\HCP.Packages.DO\obj\Release\netcoreapp2.2\HCP.Packages.DO.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DO\HCP.Packages.DO\obj\Release\netcoreapp2.2\HCP.Packages.DO.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DO\HCP.Packages.DO\obj\Release\netcoreapp2.2\HCP.Packages.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DO\HCP.Packages.DO\obj\Release\netcoreapp2.2\HCP.Packages.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DO\HCP.Packages.DO\obj\Release\netcoreapp2.2\HCP.Packages.DO.csprojAssemblyReference.cache

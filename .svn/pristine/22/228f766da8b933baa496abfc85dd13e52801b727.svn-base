@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using HCP.Packages.IF;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+
+namespace HCP.Packages.WebAPI.Controllers
+{
+    [Route("api/[controller]/[action]")]
+    [ApiController]
+    public class PackageMasterController : ControllerBase
+    {
+        private readonly IPackageMasterRepository _iPackageMasterRepository;
+
+        public PackageMasterController(IPackageMasterRepository iPackageMasterRepository)
+        {
+            _iPackageMasterRepository = iPackageMasterRepository;
+        }
+
+
+        /// <summary>
+        /// Get Packages
+        /// UI Reffered - Get Packages
+        /// </summary>
+        public async Task<IActionResult> GetPackages()
+        {
+            var msg = await _iPackageMasterRepository.GetPackages();
+            return Ok(msg);
+
+        }
+
+    }
+}

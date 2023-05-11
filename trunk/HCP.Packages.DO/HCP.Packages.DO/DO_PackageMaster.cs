@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace HCP.Packages.DO
+{
+    public class DO_PackageMaster
+    {
+        public int BusinessKey { get; set; }
+        public int PackageId { get; set; }
+        public int PackageCode { get; set; }
+        public string PackageShortCode { get; set; }
+        public int? CustomerId { get; set; }
+        public string CurrencyCode { get; set; }
+        public DateTime EffectiveDate { get; set; }
+        public decimal ActualCost { get; set; }
+        public decimal PackageAmount { get; set; }
+        public decimal ServiceChargePercentage { get; set; }
+        public DateTime? EffectiveTill { get; set; }
+        public bool PatientCopy { get; set; }
+        public bool FoodProvided { get; set; }
+        public bool ActiveStatus { get; set; }
+
+        public string PackageDesc { get; set; }
+
+        public List<DO_PackageService> l_services { get; set; }
+
+        public string FormId { get; set; }
+        public int UserID { get; set; }
+        public DateTime CreatedOn { get; set; }
+        public string TerminalID { get; set; }
+
+    }
+}

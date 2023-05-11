@@ -1,0 +1,16 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\bin\Debug\netcoreapp2.2\HCP.Packages.DL.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\bin\Debug\netcoreapp2.2\HCP.Packages.DL.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\bin\Debug\netcoreapp2.2\HCP.Packages.DL.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\bin\Debug\netcoreapp2.2\HCP.Packages.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\bin\Debug\netcoreapp2.2\HCP.Packages.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\bin\Debug\netcoreapp2.2\HCP.Packages.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\bin\Debug\netcoreapp2.2\HCP.Packages.IF.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\obj\Debug\netcoreapp2.2\HCP.Packages.DL.csprojAssemblyReference.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\obj\Debug\netcoreapp2.2\HCP.Packages.DL.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\obj\Debug\netcoreapp2.2\HCP.Packages.DL.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\obj\Debug\netcoreapp2.2\HCP.Packages.DL.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\obj\Debug\netcoreapp2.2\HCP.Packages.DL.csproj.CopyComplete
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\obj\Debug\netcoreapp2.2\HCP.Packages.DL.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\obj\Debug\netcoreapp2.2\HCP.Packages.DL.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\bin\Debug\netcoreapp2.2\HCP.Packages.DL.runtimeconfig.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPackages.WebAPI\trunk\HCP.Packages.DL\HCP.Packages.DL\bin\Debug\netcoreapp2.2\HCP.Packages.DL.runtimeconfig.dev.json
